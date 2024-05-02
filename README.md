@@ -14,7 +14,7 @@ WebSleuth is a product Price tracker application for E-commerce Websites current
 * Tailwind CSS - UI
 * Cheerio - For Scraping the data
 * BrightData - Web Unlocker, solves website blocking techniques in real-time
-* MongoDb - Persistant Database
+* MongoDb - Persistant Database </div>
 
 ## Env Config that you need to have
 * Clerk NextJS API keys (Public Key and Secret Key) for authentication
