@@ -44,4 +44,5 @@ npm run start
 ```
 ## Architecture
 ![image](https://github.com/Hexton09/WebSleuth-1/assets/98824774/2e56146d-9135-471a-8ea1-2315cdd4af4c)
-![image](https://github.com/Hexton09/WebSleuth-1/assets/98824774/d79aa2a4-937e-4737-aeb9-286033a307fc)
+![image](https://github.com/Hexton09/WebSleuth/assets/98824774/6f0fe796-3e2f-4a27-9665-41fbcd806d06)
+
