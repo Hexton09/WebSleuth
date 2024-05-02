@@ -5,7 +5,7 @@ WebSleuth is a product Price tracker application for E-commerce Websites current
 * Will show the highest, lowest and average price of the Product
 * You can Opt-in to Track the product and will be notified when -
   * the product is in Stock
-  * is below the price
+  * is below the current price
 ## 🛠️ Working and Technologies
 * Cron jobs - For automated price tracking
 * Nodemailer - For notifying the user through mail
