@@ -10,6 +10,7 @@ WebSleuth is a product Price tracker application for E-commerce Websites current
 * Cron jobs - For automated price tracking
 * Nodemailer - For notifying the user through mail
 * NextJS - FrameWork
+* TypeScript - Programming Language
 * React - Frontend
 * Tailwind CSS - UI
 * Cheerio - For Scraping the data
