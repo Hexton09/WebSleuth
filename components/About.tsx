@@ -9,7 +9,7 @@ const About = () => {
         <h1 className="head-text flex items-center">
           <span className="text-indigo-500">ABOUT&nbsp;</span>
           <span>WebSleuth</span>
-          <img src="assets/icons/logo.svg" height={50} width={60} />
+          <img src="assets/icons/logo2.png" height={80} width={90} />
         </h1>
         <p className="mt-6 justify-content pr-20">
           At WebSleuth, we understand the frustration of seeing a product's
