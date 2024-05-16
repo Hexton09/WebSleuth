@@ -10,15 +10,21 @@ WebSleuth is a product Price tracker application for E-commerce Websites current
 * Cron jobs - For automated price tracking
 * Nodemailer - For notifying the user through mail
 * NextJS - FrameWork
-	@@ -16,7 +16,7 @@ WebSleuth is a product Price tracker application for E-commerce Websites current
+* TypeScript - Programming Language
+* React - Frontend
+* Tailwind CSS - UI
+* Cheerio - For Scraping the data
 * BrightData - Web Unlocker, solves website blocking techniques in real-time
-* MongoDb - Persistant Database </div>
+* MongoDb - Persistant Database
+
+
 
 ## ⚙️ Env Config that you need to have
 * Clerk NextJS API keys (Public Key and Secret Key) for authentication
 * Bright Data Web unlocker - Username and password
   *  Go to brightData -> Register
-	@@ -25,7 +25,7 @@ WebSleuth is a product Price tracker application for E-commerce Websites current
+  *  Create a Web unlocker and copy the username and password
+* Email and password
   *  Email can be changed here lib/nodemailer/index.ts
   *  And password need to be in env file
 * MongoDB URI
@@ -26,7 +32,16 @@ WebSleuth is a product Price tracker application for E-commerce Websites current
 Install all dependencies
 ```
 npm run install
-	@@ -42,8 +42,8 @@ or
+```
+Build it
+```
+npm run build
+```
+Run it
+```
+npm run dev
+```
+or
 ```
 npm run start
 ```
