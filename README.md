@@ -24,7 +24,8 @@ Just Kidding
 
 
 
-## ⚙️ Env Config that you need to have
+## ⚙️ Env Config that you need to have 
+* Follow the .env.example format
 * Clerk NextJS API keys (Public Key and Secret Key) for authentication
 * Bright Data Web unlocker - Username and password
   *  Go to brightData -> Register
