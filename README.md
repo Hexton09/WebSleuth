@@ -1,4 +1,4 @@
-# 🛍️ WebSleuth
+# 🛍️ WebSleuthS
 WebSleuth is a product Price tracker application for E-commerce Websites, currently working only for amazon 
 
 ## It Produces
